@@ -1,0 +1,228 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Nov 19, 2015, 3:14:06 PM
+    Author     : apprentice
+*/
+
+head{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+.navbar-form navbar-right{
+    margin-right: 50px;
+}
+
+#logo1{
+    margin-top: 100px;
+
+}
+
+#content {
+    display: inline;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    width: 600px;
+    min-height: 750px;
+    float: left;
+    overflow: hidden;
+    height: auto;
+}
+
+/*.left-sidebar {
+    width:250px;
+    margin: auto;
+    border: 3px solid #73AD21;
+}
+
+.about-left-sidebar {
+    width: 250px;
+    margin: auto;
+    border: 3px solid #73AD21;
+}*/
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+li {
+    list-style-type: none;
+}
+#navbar{
+    text-align: center;
+}
+
+
+#nav {
+    display: table;
+    table-layout: fixed;
+    text-align: center;
+}
+#nav li {
+    display: table-cell;
+    width: 25%;
+    padding-right: 1px;
+    height: auto;
+    vertical-align: bottom;
+}
+#nav a {
+    display: block;
+    min-height: 100%;
+    padding: 4px 10px;
+    background-color: #222;
+    color: white;
+    border-radius: 6px 6px 0 0;
+}
+
+#navbar {
+    text-align: center;
+
+}
+
+#nav ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0;
+    width: 100%;
+}
+
+#nav li {
+    margin: 0px;
+}
+
+#nav li a {
+    padding: 10px;
+    text-decoration: none;
+    font-weight: bold;
+    color: #FFFFFF;
+    background-color: #000000;
+    float: left
+}
+
+#nav li a:hover {
+    color: #FFFFFF;
+    background-color: #35af3b;
+}
+
+li{
+
+    width: 270px;
+}
+
+#belowNav{
+    background-image: url("http://wallpapercave.com/wp/IynYE05.png");
+    width: 100%;
+}
+
+#logo1 img {
+    margin-left: -100px;
+
+}
+
+body {
+    background-size: cover;
+    border: 0;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+#content{
+    display: block;
+    background-color: #FFFFFF;
+    margin-top: -360px;
+    margin-left: 18%;
+    alignment-adjust: middle;
+    width: 50%;
+
+}
+
+#post{
+    height: auto;
+    
+}
+
+/*#left-sidebar{
+    position: fixed;
+    height: 132px;
+    left: 0;
+    top: 185px;
+    width: 24px;
+    background: #FFFFFF;
+}*/
+
+#aboveNav {
+    background-color: #D0EAF2;
+}
+
+#footerBar {
+    background-color: #D0EAF2;
+}
+
+#aboutHeading {
+    text-align: center;
+}
+
+#orderHeader {
+    text-align: center;
+}
+
+
+/*CSS for Order page content elements*/
+/*These need to be centered eventually to the pictures.*/ 
+
+#sidebar{
+    position: fixed;
+    top:    450px;
+    padding: 10px 25px 10px 25px;
+    border-radius: 15px;
+    background-color: #F0F0F0;
+    z-index: 2;
+    
+}
+
+#sidebar p{
+    text-align: center;
+}
+
+#confirm{
+    margin: auto;
+    display: block;
+}
+
+.loginform{
+    text-align: center;
+}
+
+.loginpanel {
+    text-align: center;
+}
+
+#loginbtn {
+    alignment-adjust: middle;
+}
+
+.rememberpass {
+    text-align: center;
+}
+
+.forgetpass {
+    text-align: center;
+}
+
+.buttonHolder {
+    text-align: center;
+}
+
+.buttonHolder1 {
+    text-align: center;
+}
+
+.orderP {
+    text-align: center;
+}
+
